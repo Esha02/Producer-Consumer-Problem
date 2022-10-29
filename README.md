@@ -1,5 +1,3 @@
-// Producer-Consumer-Problem
-//We expect to use these two programs (producer and consumer) like this:  $ gcc producer.c -pthread -lrt -o producer $ gcc consumer.c -pthread -lrt -o consumer $ ./producer &amp; ./consumer &amp;
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <unistd.h> 
